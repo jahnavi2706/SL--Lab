@@ -1,4 +1,4 @@
-def makes20(x,y)
+def makes10(x,y)
     return x == 10|| y == 10 || x + y == 10
 end
 
